@@ -142,6 +142,8 @@ Dynamic Logic是使用js对页面修改和控制。
 
 ![项目](/images/tenon/project.png)
 
+Tenon 由项目列表页面、设计页面、预览页面三部分组成。
+
 **核心理念**
 
 ![核心理念](/images/tenon/idea.png)
@@ -161,9 +163,9 @@ Dynamic Logic是使用js对页面修改和控制。
         - 背景属性
         - 容器属性
         - 边框属性
-        - 列表属性
         - 定位属性
         - 鼠标属性
+        - …
     - 组件级别
 
 对配置数据的描述，使用JSON格式，并遵循 [JSON Schema](https://json-schema.org/) 规范。
@@ -254,13 +256,11 @@ const borderSchema = {
 
 **复合组件**
 
-使用已有组件创建新的组件。
+使用已有组件创建新的组件。允许对复合组件内的组件进行二次编辑。
 
 **Dynamic Logic**
 
 组件级别，可编写代码，实现业务逻辑。
-
-## 展望未来
 
 ## 结语
 
@@ -274,10 +274,10 @@ const borderSchema = {
 
 ## References
 
-- 页面可视化搭建工具前生今世（https://github.com/CntChen/cntchen.github.io/issues/15）
-- json-schema（https://json-schema.org/）
-- pipeline（https://github.com/page-pipepline）
-- VvvebJs（http://www.vvveb.com/vvvebjs/editor.html）
+- 页面可视化搭建工具前生今世(https://github.com/CntChen/cntchen.github.io/issues/15)
+- json-schema(https://json-schema.org/)
+- pipeline-editor(https://github.com/page-pipepline/pipeline-editor)
+- VvvebJs(http://www.vvveb.com/vvvebjs/editor.html)
 
 ## 快速体验
 
