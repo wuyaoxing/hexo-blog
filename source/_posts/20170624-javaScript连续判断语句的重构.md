@@ -1,7 +1,7 @@
 ---
 title: javaScript连续判断语句的重构
 date: 2017-06-24 09:59:46
-tags:
+categories:
 ---
 
 ## 主题

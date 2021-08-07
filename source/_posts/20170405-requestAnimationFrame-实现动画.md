@@ -1,9 +1,7 @@
 ---
 title: requestAnimationFrame 实现动画
 date: 2017-04-05 14:46:12
-tags:
-    - requestAnimationFrame
-    - 动画
+categories:
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: SVN异常处理之cleanup
 date: 2017-04-25 15:18:37
-tags:
+categories:
     - svn
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: SourceTree 免登录跳过初始设置的方法
 date: 2018-05-11 18:05:23
-tags:
-    - sourceTree
+categories:
     - git
 ---
 

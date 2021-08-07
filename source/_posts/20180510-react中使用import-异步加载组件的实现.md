@@ -1,9 +1,7 @@
 ---
 title: react中使用import()异步加载组件的实现
 date: 2018-05-10 17:52:31
-tags:
-    - import()
-    - react
+categories:
 ---
 
 ## 简介
